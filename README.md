@@ -14,3 +14,4 @@
 | Wu et al. | [ReFT: Representation Finetuning for Language Models](https://arxiv.org/abs/2404.03592) |
 | Hojel et al. | [Finding Visual Task Vectors](https://arxiv.org/abs/2404.05729) |
 | Li et al. | [The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning](https://arxiv.org/abs/2403.03218) |
+| Nguyen et al. | [Beyond Linear Activation Steering: Invertible Latent Transformations for Controlling LLM Behavior](https://arxiv.org/abs/2606.08454) |
